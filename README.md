@@ -73,6 +73,6 @@ El conjunto de datos ha sido tomado de Kaggle ([Heart Disease UCI](https://www.k
 ## Referencias
 
 
-[*National Heart, Lung, and Blood Institute*](https://www.nhlbi.nih.gov/science/heart-and-vascular-diseases)
+[*National Heart, Lung, and Blood Institute*](https://www.nhlbi.nih.gov/science/heart-and-vascular-diseases) \
 [*Organización Mundial de la Salud*](https://www.who.int/es/health-topics/cardiovascular-diseases#tab=tab_1)
 
