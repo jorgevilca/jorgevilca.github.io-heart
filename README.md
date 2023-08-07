@@ -6,8 +6,8 @@
 
 ## Integrantes
 
-Erick Cauti
-Soledad Llashag
+Erick Cauti \
+Soledad Llashag \
 Jorge Vilcamiza
 
 ## Introducción
