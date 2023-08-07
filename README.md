@@ -49,6 +49,30 @@ El corazón también necesita oxígeno y nutrientes para continuar realizando su
 
 En el peor caso, el efecto de privar a las células del corazón de nutrientes y oxígeno da lugar a un infarto, es decir, la muerte de parte de las células del corazón. Lo cuál, a su vez, tiene repercusión en el resto del cuerpo pues el bombeo de sangre se ve afectado al debilitarse el corazón.
 
-## Conjunto de datos
+## Caso elegido (Justificación)
+
+
+
+
+
+
+## Fuente de datos y características
 
 El conjunto de datos ha sido tomado de Kaggle ([Heart Disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)), que a su vez ha sido tomado de [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). Se tienen datos de alrededor de 300 pacientes de Cleveland y las variables que se recogen se describen con detalle en el informe y cuaderno.
+
+
+## Principales resultados del EDA
+
+
+## Principales modelos de ML y métricas
+
+
+## Conclusiones y futuros pasos
+
+
+## Referencias
+
+
+[*National Heart, Lung, and Blood Institute*](https://www.nhlbi.nih.gov/science/heart-and-vascular-diseases)
+[*Organización Mundial de la Salud*](https://www.who.int/es/health-topics/cardiovascular-diseases#tab=tab_1)
+
