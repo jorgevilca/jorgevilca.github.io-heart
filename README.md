@@ -4,8 +4,11 @@
     <img src="https://media.tenor.com/bpohKX264QoAAAAC/corazon-latiendo.gif" alt="Imagen de un corazón y un electrocardiograma de dos latidos normales" />
 </p>
 
-- [**Enlace al informe en HTML (en GitHub Pages)**](https://carlosdg.github.io/PrediccionEnfermedadCoronaria/)
-- [**Enlace al cuaderno de R**](project/notebooks/main.Rmd)
+## Integrantes
+
+Erick Cauti
+Soledad Llashag
+Jorge Vilcamiza
 
 ## Introducción
 
