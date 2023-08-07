@@ -27,7 +27,7 @@ La sangre es vital para el correcto funcionamiento del cuerpo. Entre sus funcion
 La sangre es transportada por todo el cuerpo gracias a que es bombeada por el corazón. Este recibe sangre con poco oxígeno que manda a los pulmones para que se oxigene y la sangre que recibe de los pulmones la bombea al resto del cuerpo.
 
 <p align="center">
-  <img src="docs/images/Latidos.gif" alt="Flujo de la sangre a través de las cámaras del corazón" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Latidos.gif" alt="Flujo de la sangre a través de las cámaras del corazón" />
   <p align="center">Flujo de la sangre a través de las cavidades del corazón. Las flechas azules representan la sangre sin oxigenar que se recibe del resto del cuerpo y se manda a los pulmones. Las flechas rojas representan la sangre proveniente de los pulmones que se manda al resto del cuerpo</p>
       
   <p align="center">By josiño - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=9396374</p>
@@ -41,7 +41,7 @@ Un aporte inadecuado de sangre puede llevar a que las células no obtengan sufic
 El corazón también necesita oxígeno y nutrientes para continuar realizando su función, estos llegan por unas arterias conocidas como arterias coronarias. Cuando se da una enfermedad coronaria se habla de una dificultad del flujo sanguíneo en estas arterias debido a la acumulación de sustancias sobre sus paredes.
 
 <p align="center">
-  <img src="docs/images/Heart_attack-NIH.gif" alt="Muerte de células del corazón por una isquemia en las arterias coronarias">
+  <img src="https://www.venelogia.com/uploads/2011/ataque-cardiaco.jpg" alt="Muerte de células del corazón por una isquemia en las arterias coronarias">
   <p align="center">Muerte de células del corazón por una isquemia en las arterias coronarias.</p>
   
   <p align="center">By NIH: National Heart, Lung and Blood Institute - http://www.nhlbi.nih.gov/health/health-topics/topics/heartattack/, Public Domain, https://commons.wikimedia.org/w/index.php?curid=25287085</p>
