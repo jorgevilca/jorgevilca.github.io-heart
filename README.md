@@ -1,4 +1,3 @@
-# jorgevilca.github.io/heart
 # Predicción de la presencia de una enfermedad coronaria usando Machine Learning
 
 <p align="center">
