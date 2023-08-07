@@ -1,4 +1,4 @@
-# Predicción de la presencia de una enfermedad coronaria usando Machine Learning
+# Predicción de la presencia de una enfermedadad cardiovascular usando Machine Learning
 
 <p align="center">
     <img src="https://media.tenor.com/bpohKX264QoAAAAC/corazon-latiendo.gif" alt="Imagen de un corazón y un electrocardiograma de dos latidos normales" />
@@ -12,9 +12,9 @@ Jorge Vilcamiza
 
 ## Introducción
 
-Según el *National Heart, Lung, and Blood Institute*, [la enfermedad coronaria es una de las principales causas de muerte en los Estados Unidos](https://www.nhlbi.nih.gov/health-topics/espanol/enfermedad-coronaria). Y esto ocurre aún pudiendo controlar muchos de los factores de riesgo para prevenir la enfermedad.
+Según el *National Heart, Lung, and Blood Institute*, [las enfermedades cardíacas y vasculares, o cardiovasculares, incluyen condiciones tales como arritmias, enfermedad cardíaca coronaria, ataque cardíaco, presión arterial alta, defectos cardíacos congénitos, demencia vascular y accidente cerebrovascular.](https://www.nhlbi.nih.gov/science/heart-and-vascular-diseases). El Instituto Nacional del Corazón, los Pulmones y la Sangre (NHLBI, por sus siglas en inglés) apoya la investigación sobre las causas, el diagnóstico, el tratamiento y la prevención de las enfermedades cardíacas y vasculares, y la interacción de estas enfermedades con otras afecciones como la diabetes, el VIH/SIDA, la obesidad o trastornos del sueño como la apnea del sueño.
 
-Además, según la Organización Mundial de la Salud, [las enfermedades cardiovasculares (entre la que se encuentra la enfermedad coronaria) son la principal causa de muerte en el mundo](https://www.who.int/es/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)).
+Además, según la Organización Mundial de la Salud, [las enfermedades cardiovasculares son la principal causa de defunción en el mundo y, según estimaciones, se cobran 17,9 millones de vidas cada año.](https://www.who.int/es/health-topics/cardiovascular-diseases#tab=tab_1).
 
 Debido a la frecuencia de esta enfermedad, en este trabajo se intenta crear un modelo para predecir si un paciente padece esta enfermedad a partir de unas serie de variables medidas como la frecuencia cardíaca o el nivel de colesterol en sangre.
 
