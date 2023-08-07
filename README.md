@@ -2,7 +2,7 @@
 # Predicción de la presencia de una enfermedad coronaria usando Machine Learning
 
 <p align="center">
-    <img src="docs/images/HeartImage__GordonJohnson__Pixabay.png" alt="Imagen de un corazón y un electrocardiograma de dos latidos normales" />
+    <img src="[docs/images/HeartImage__GordonJohnson__Pixabay.png](https://media.tenor.com/bpohKX264QoAAAAC/corazon-latiendo.gif)" alt="Imagen de un corazón y un electrocardiograma de dos latidos normales" />
 </p>
 
 - [**Enlace al informe en HTML (en GitHub Pages)**](https://carlosdg.github.io/PrediccionEnfermedadCoronaria/)
